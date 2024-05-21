@@ -1,0 +1,6 @@
+streamlit
+streamlit-ckeditor
+python-docx
+pandas
+Pillow  # for image handling
+pypandoc  # optional for advanced markdown to HTML conversion
